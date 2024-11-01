@@ -1,0 +1,4 @@
+﻿.css-oxibug-uev-main-wrp > h1,
+.css-oxibug-uev-main-wrp form > h2 {
+    display: none !important;
+}

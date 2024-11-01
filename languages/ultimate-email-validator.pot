@@ -1,0 +1,867 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2023-08-22 12:26+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: admin-panel/adminpanel-backend-factory.php:173
+msgid "Administrator Panel"
+msgstr ""
+
+#: admin-panel/adminpanel-backend-factory.php:196
+msgid "The Page Admin"
+msgstr ""
+
+#: admin-panel/adminpanel-backend-factory.php:228
+msgid "You can change your page as you wish!"
+msgstr ""
+
+#: admin-panel/adminpanel-backend-factory.php:559
+msgid "Buy me a Coffee"
+msgstr ""
+
+#: admin-panel/adminpanel-db-save.php:97
+msgid "Sorry, You do not have permission to save this page!"
+msgstr ""
+
+#: admin-panel/adminpanel-db-save.php:142
+msgid ""
+"Invalid Request! Session Admin is missed, Please reload the page an try again"
+msgstr ""
+
+#: admin-panel/adminpanel-db-save.php:146
+msgid "Invalid Request! Please reload the page an try again"
+msgstr ""
+
+#: admin-panel/adminpanel-db-save.php:162
+#: admin-panel/adminpanel-db-save.php:250
+msgid "This Page has no elements to save"
+msgstr ""
+
+#: admin-panel/adminpanel-db-save.php:189
+msgid "The import text you enetered cannot be saved!"
+msgstr ""
+
+#: admin-panel/adminpanel-db-save.php:199
+msgid "Import Successfully!"
+msgstr ""
+
+#: admin-panel/adminpanel-db-save.php:203
+msgid "Import Failed!"
+msgstr ""
+
+#: admin-panel/adminpanel-db-save.php:211
+#: admin-panel/adminpanel-manager.php:384
+msgid "Settings Saved!"
+msgstr ""
+
+#: admin-panel/adminpanel-db-save.php:215
+msgid "Save Operation Failed, Or you did not made any changes!"
+msgstr ""
+
+#: admin-panel/adminpanel-db-save.php:228
+msgid "Defaults data not available!"
+msgstr ""
+
+#: admin-panel/adminpanel-db-save.php:237
+msgid "Settings Restored to the default data!"
+msgstr ""
+
+#: admin-panel/adminpanel-db-save.php:241
+msgid "Restoring Operation Failed Or already restored!"
+msgstr ""
+
+#: admin-panel/adminpanel-manager.php:206
+msgid "Settings"
+msgstr ""
+
+#: admin-panel/adminpanel-manager.php:385
+msgid "Saving Failed!"
+msgstr ""
+
+#: admin-panel/adminpanel-manager.php:389
+msgid "Settings Restored!"
+msgstr ""
+
+#: admin-panel/adminpanel-manager.php:390
+msgid "Restoring Failed!"
+msgstr ""
+
+#: admin-panel/adminpanel-manager.php:395
+msgid "Settings Imported!"
+msgstr ""
+
+#: admin-panel/adminpanel-manager.php:396
+msgid "Importing Failed!"
+msgstr ""
+
+#: admin-panel/adminpanel-manager.php:409
+msgid "Upload Media File"
+msgstr ""
+
+#: admin-panel/adminpanel-manager.php:419
+msgid "Are you sure you want to delete this item?"
+msgstr ""
+
+#: admin-panel/adminpanel-manager.php:425
+msgid "Security Error! Reload the page and try again."
+msgstr ""
+
+#: admin-panel/adminpanel-manager.php:426
+msgid ""
+"Fetal Error: Please, Check your internet connection or Reload the page and "
+"try again"
+msgstr ""
+
+#: admin-panel/adminpanel-manager.php:532
+msgid "Reset Settings"
+msgstr ""
+
+#: admin-panel/adminpanel-manager.php:536
+msgid "Save Settings"
+msgstr ""
+
+#: admin-panel/panel/page-map.php:78
+msgid "(Ultimate Email Validator) Plugin Settings"
+msgstr ""
+
+#: admin-panel/panel/page-map.php:79
+msgid "(Ultimate Email Validator) Plugin Decsription"
+msgstr ""
+
+#: admin-panel/panel/page-map.php:92
+msgid "Defender API Keys"
+msgstr ""
+
+#: admin-panel/panel/page-map.php:100
+msgid "WordPress Functions"
+msgstr ""
+
+#: admin-panel/panel/page-map.php:108
+msgid "WordPress Forms"
+msgstr ""
+
+#: admin-panel/panel/page-map.php:116
+msgid "BuddyPress"
+msgstr ""
+
+#: admin-panel/panel/page-map.php:124
+msgid "WooCommerce"
+msgstr ""
+
+#: admin-panel/panel/page-map.php:132
+msgid "MailChimp"
+msgstr ""
+
+#: admin-panel/panel/page-map.php:140
+msgid "Contact Form 7"
+msgstr ""
+
+#: admin-panel/panel/page-map.php:148
+msgid "Gravity Forms"
+msgstr ""
+
+#: admin-panel/panel/page-map.php:156
+msgid "Ninja Forms"
+msgstr ""
+
+#: admin-panel/panel/page-map.php:180
+msgid "<i class=\"fa fa-upload\" aria-hidden=\"true\"></i>Import / Export"
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:63
+msgid "Disable Defender?"
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:64
+msgid ""
+"If you check this option, we won't verify users' emails during registration "
+"and other processes."
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:76
+msgid "Disable Defender When Reaching Daily/Monthly Limit?"
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:77
+msgid ""
+"If you enable this option, user email verification will be skipped during "
+"registration and other processes if your API usage reaches the daily/monthly "
+"limit. Otherwise, clients will not be able to register until the limit is "
+"increased."
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:88
+msgid "Validate Emails By Certain API"
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:89
+msgid ""
+"You have the option to choose a single vendor for API usage, or you can "
+"select [All] to re-verify only VALID emails. Example: If \"Block Temporary "
+"Email\" responds with VALID, the email will undergo verification with the "
+"next API. However, if it's marked INVALID, it will be rejected from the "
+"first API."
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:94
+msgid "Use All"
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:95
+#: includes/email-validator/email-validator.php:203
+msgid "Quick Email Verification"
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:96
+#: includes/email-validator/email-validator.php:199
+msgid "Block Temporary Email"
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:105
+msgid "[Quick Email Verification] - API KEY"
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:106
+#, php-format
+msgid ""
+"You have to register in <a href=\"%s\" target=\"_blank\">Quick Email "
+"Verification</a> and get an API Key to be able to check emails."
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:117
+msgid ""
+"[Quick Email Verification] - Accept \"Unsafe to Send\" E-Mail Addresses? "
+"[Disable is Recommended]"
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:118
+msgid ""
+"If you enable this option, Users can register with emails marked as \"Unsafe "
+"to Send\" by Quick Email Verification API, Example: Try to validate this "
+"[petermcilrath9@roll.kranso.com] by Quick Email Verification, You will "
+"notice is's accepted and not disposable but is \"Not Safe to Send\"."
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:130
+msgid "[Block Temporary Email] - API KEY"
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:131
+#, php-format
+msgid ""
+"You have to register in <a href=\"%s\" target=\"_blank\">Block Temporary "
+"Email</a> and get an API Key to be able to check emails."
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:148
+msgid "Filter {is_email} function permanently?"
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:149
+#: admin-panel/panel/page-tab-admin.php:162
+#, php-format
+msgid ""
+"If you checked that option it will affect all functions use {%1$s} function,"
+"<br/><br/>\n"
+"                    The default is {unchecked} to display your custom "
+"message, Otherwise you'll notice that the custom message will not be "
+"displayed because the function {%1$s} fired early."
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:161
+msgid "Filter {is_email_address_unsafe} function permanently?"
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:184
+msgid "Validate the user email in the registration form?"
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:185
+#: admin-panel/panel/page-tab-admin.php:255
+#: admin-panel/panel/page-tab-admin.php:297
+#: admin-panel/panel/page-tab-admin.php:352
+#: admin-panel/panel/page-tab-admin.php:392
+#: admin-panel/panel/page-tab-admin.php:433
+#: admin-panel/panel/page-tab-admin.php:474
+msgid ""
+"Check the user email before registration done and display the following "
+"message if he use a disposable email."
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:195
+msgid "WordPress Registration Form - Error Message."
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:196
+#: admin-panel/panel/page-tab-admin.php:232
+#: admin-panel/panel/page-tab-admin.php:267
+#: admin-panel/panel/page-tab-admin.php:309
+#: admin-panel/panel/page-tab-admin.php:322
+#, php-format
+msgid ""
+"Enter a message to notify your user that he cannot use a disposable email "
+"address.<br/><br/>\n"
+"                    That will be affected if you choose to filter the "
+"following functions.<br/>%s.<br/>%s."
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:200
+#: admin-panel/panel/page-tab-admin.php:271
+#: admin-panel/panel/page-tab-admin.php:313
+msgid ""
+"You can't use that email address to sign up because it's marked as "
+"disposable. Please use a real email address."
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:208
+msgid "Validate the user email on post a comment?"
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:209
+msgid ""
+"Check the user email before the comment is posted. (The WordPress Default "
+"message will be displayed)."
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:220
+msgid "Validate the user email on update user profile?"
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:221
+msgid ""
+"Check the user email before the user profile updated. (The WordPress Default "
+"message will be displayed)."
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:231
+#: admin-panel/panel/page-tab-admin.php:321
+msgid "Update Profile Form - Error Message."
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:236
+#: admin-panel/panel/page-tab-admin.php:326
+msgid ""
+"You can't replace your email address with a disposable one. Please use a "
+"real email address."
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:254
+msgid "Validate the user email in the BuddyPress registration form?"
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:266
+msgid "BuddyPress Registration Form - Error Message."
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:296
+msgid "Validate the user email in the (WooCommerce) form?"
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:308
+#: admin-panel/panel/page-tab-admin.php:363
+#: admin-panel/panel/page-tab-admin.php:403
+#: admin-panel/panel/page-tab-admin.php:444
+#: admin-panel/panel/page-tab-admin.php:485
+msgid "Using Disposable Email Address Error Message."
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:351
+msgid "Validate the user email in the (Contact Form 7) form?"
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:364
+#: admin-panel/panel/page-tab-admin.php:404
+#: admin-panel/panel/page-tab-admin.php:445
+#: admin-panel/panel/page-tab-admin.php:486
+msgid ""
+"Enter a message to notify your user that he cannot use a disposable email "
+"address."
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:367
+#: admin-panel/panel/page-tab-admin.php:407
+#: admin-panel/panel/page-tab-admin.php:448
+#: admin-panel/panel/page-tab-admin.php:489
+msgid ""
+"Your email is identified as disposable. Please provide a valid email address "
+"so we can stay in touch."
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:391
+msgid "Validate the user email in the (MailChimp) form?"
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:432
+msgid "Validate the user email in the (Gravity Forms) form?"
+msgstr ""
+
+#: admin-panel/panel/page-tab-admin.php:473
+msgid "Validate the user email in the (Ninja Forms) form?"
+msgstr ""
+
+#: admin-panel/panel/page-tab-impexp.php:73
+msgid "Export"
+msgstr ""
+
+#: admin-panel/panel/page-tab-impexp.php:74
+msgid "Use this text to import settings in other website"
+msgstr ""
+
+#: admin-panel/panel/page-tab-impexp.php:80
+msgid "No saved fields to export"
+msgstr ""
+
+#: admin-panel/panel/page-tab-impexp.php:89
+msgid "Import"
+msgstr ""
+
+#: admin-panel/panel/page-tab-impexp.php:90
+msgid "Paste an import text from another settings"
+msgstr ""
+
+#: admin-panel/panel/page-tab-impexp.php:97
+msgid "Paste the text to export old settings"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-factory.php:186
+msgid "Repeat All (Default)"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-factory.php:188
+msgid "Repeat Horizontal"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-factory.php:189
+msgid "Repeat Vertical"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-factory.php:190
+msgid "No Repeat"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-factory.php:191
+#: admin/elements-factory/admin-elements-factory.php:216
+#: admin/elements-factory/admin-elements-factory.php:241
+msgid "Initial"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-factory.php:192
+#: admin/elements-factory/admin-elements-factory.php:217
+#: admin/elements-factory/admin-elements-factory.php:242
+msgid "Inherit"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-factory.php:212
+msgid "Auto (Default)"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-factory.php:214
+msgid "Cover"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-factory.php:215
+msgid "Contain"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-factory.php:237
+msgid "Scroll (Default)"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-factory.php:239
+msgid "Fixed"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-factory.php:240
+msgid "Local"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-factory.php:266
+msgid "Left Top (Default)"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-factory.php:267
+msgid "Left Center"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-factory.php:268
+msgid "Left Bottom"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-factory.php:270
+msgid "Right Top"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-factory.php:271
+msgid "Right Center"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-factory.php:272
+msgid "Right Bottom"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-factory.php:274
+msgid "Center Top"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-factory.php:275
+msgid "Center Center"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-factory.php:276
+msgid "Center Bottom"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-repeater-mapper.php:56
+#: admin/elements-factory/admin-elements-repeater-mapper.php:273
+msgid "Add New Item"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-repeater-mapper.php:156
+msgid "Show All"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-repeater-mapper.php:160
+msgid "Collapse All"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-repeater-mapper.php:248
+msgid "Collapse"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-repeater-mapper.php:248
+msgid "Show"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-repeater-mapper.php:275
+msgid "Delete"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-repeater-mapper.php:429
+#: admin/elements-factory/admin-elements-repeater-mapper.php:443
+#: admin/elements-factory/admin-elements-repeater-mapper.php:463
+#: admin/elements-factory/admin-elements-repeater-mapper.php:477
+#, php-format
+msgid ""
+"<div class=\"note warning\">There's no array provided to display in select "
+"box, control [ <b>%s</b> ]</div>"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-templates.php:841
+msgid "From"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-templates.php:853
+#: admin/elements-factory/admin-elements-templates.php:896
+#: admin/elements-factory/admin-elements-templates.php:939
+msgid "Select Color"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-templates.php:884
+msgid "To"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-templates.php:1891
+msgid "Upload Media"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-templates.php:1895
+msgid "Remove"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-templates.php:1963
+msgid "Please update your WordPress copy to the latest version."
+msgstr ""
+
+#: admin/elements-factory/admin-elements-templates.php:2114
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-templates.php:2118
+msgid "Clear"
+msgstr ""
+
+#: admin/elements-factory/admin-elements-templates.php:2188
+msgid "Please update your WordPress copy to the latest version!"
+msgstr ""
+
+#: fs-premium-features/ajax/fs-ajax-repeater.php:89
+msgid "Fetal Error: Cannot access Repeater control."
+msgstr ""
+
+#: fs-premium-features/ajax/fs-ajax-repeater.php:95
+msgid ""
+"Fetal Error: The current item for this Repeater control not good, Please "
+"reload the page and try again."
+msgstr ""
+
+#: fs-premium-features/ajax/fs-ajax-repeater.php:125
+msgid ""
+"Fetal Error: No controls are found inside this repeater, Check your controls "
+"array!"
+msgstr ""
+
+#: fs-premium-features/ajax/fs-ajax-repeater.php:135
+msgid ""
+"Fetal Error: You do not have permessions to do this work!, Please contact "
+"the Webmaster."
+msgstr ""
+
+#: fs-premium-features/panel/fs-page-map.php:77
+msgid ""
+"<i class=\"fa fa-cog\" aria-hidden=\"true\"></i>(Premium) Custom Domains"
+msgstr ""
+
+#: fs-premium-features/panel/fs-page-map.php:82
+msgid "Block Email Domains"
+msgstr ""
+
+#: fs-premium-features/panel/fs-page-map.php:94
+msgid "New Email Domain"
+msgstr ""
+
+#: fs-premium-features/panel/fs-page-map.php:100
+msgid "Enter the Domain Name without scheme {domain.com}"
+msgstr ""
+
+#: fs-premium-features/panel/fs-page-map.php:101
+msgid ""
+"Enter the fake domain name that you're very sure it's a disposable email "
+"domain [Example: domain.com]."
+msgstr ""
+
+#: fs-premium-features/panel/fs-page-map.php:108
+msgid "domain.com"
+msgstr ""
+
+#: includes/ajax-operations.php:154 includes/ajax-operations.php:159
+msgid ""
+"AJAX: Invalid Request! This operation must applied through admin pages only."
+msgstr ""
+
+#: includes/ajax-operations.php:168 includes/ajax-operations.php:173
+msgid "AJAX: Invalid Request! Please reload the page an try again"
+msgstr ""
+
+#: includes/email-validator/email-validator.php:178
+msgid ""
+"API Keys Tab is missing, Please Contact the Administrator with this message."
+msgstr ""
+
+#: includes/email-validator/server-block-temporary-email.php:142
+#: includes/email-validator/server-quick-email-verification.php:125
+msgid "No Email provided by the user."
+msgstr ""
+
+#: includes/email-validator/server-block-temporary-email.php:160
+#: includes/email-validator/server-quick-email-verification.php:156
+msgid "Invalid response from the server, Please try again in seconds."
+msgstr ""
+
+#: includes/email-validator/server-block-temporary-email.php:166
+#: includes/email-validator/server-quick-email-verification.php:221
+msgid "Invalid body from the server's response, Please try again in seconds."
+msgstr ""
+
+#: includes/email-validator/server-block-temporary-email.php:193
+#: includes/email-validator/server-quick-email-verification.php:259
+msgid ""
+"Invalid JSON body from the server's response, Please try again in seconds."
+msgstr ""
+
+#: includes/email-validator/server-block-temporary-email.php:197
+msgid ""
+"No [status] key found in the server response, Please try again in a minute."
+msgstr ""
+
+#: includes/email-validator/server-block-temporary-email.php:201
+msgid "Invalid Email Address."
+msgstr ""
+
+#: includes/email-validator/server-block-temporary-email.php:209
+msgid ""
+"No {temporary} key was found in the server response, Please try again in a "
+"minute."
+msgstr ""
+
+#: includes/email-validator/server-quick-email-verification.php:180
+msgid ""
+"[Quick Email Verification] Server can not understand the request sent to it."
+msgstr ""
+
+#: includes/email-validator/server-quick-email-verification.php:184
+msgid ""
+"[Quick Email Verification] Server can not verify your authentication to use "
+"API. Please check whether API key is proper or not."
+msgstr ""
+
+#: includes/email-validator/server-quick-email-verification.php:189
+msgid "[Quick Email Verification] Your account has been disabled."
+msgstr ""
+
+#: includes/email-validator/server-quick-email-verification.php:198
+msgid "[Quick Email Verification] Requested API can not be found on server."
+msgstr ""
+
+#: includes/email-validator/server-quick-email-verification.php:203
+msgid "[Quick Email Verification] Too many requests. Rate limit exceeded."
+msgstr ""
+
+#: includes/email-validator/server-quick-email-verification.php:211
+msgid "[Quick Email Verification] Internal Server Error."
+msgstr ""
+
+#: includes/email-validator/server-quick-email-verification.php:263
+msgid ""
+"No [success] key found in the server response, Please try again in a minute."
+msgstr ""
+
+#: includes/email-validator/server-quick-email-verification.php:267
+msgid "Invalid API Calling."
+msgstr ""
+
+#: includes/email-validator/server-quick-email-verification.php:276
+msgid ""
+"No [disposable] key was found in the server response, Please try again in a "
+"minute."
+msgstr ""
+
+#: includes/engine.php:71 includes/engine.php:85 includes/helper-factory.php:55
+#: includes/helper-factory.php:69 includes/kses-factory.php:50
+#: includes/kses-factory.php:64 includes/sanitization-factory.php:43
+#: includes/sanitization-factory.php:57
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/engine.php:616
+msgid "Documentation"
+msgstr ""
+
+#: includes/engine.php:617
+msgid "Submit a Ticket"
+msgstr ""
+
+#: includes/engine.php:760
+#, php-format
+msgid ""
+"If you like <strong>Ultimate Email Validator</strong> \n"
+"                please leave us a <a href=\"%s\" target=\"_blank\" "
+"class=\"oxibug-rating-link\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating. "
+"A huge thanks in advance!"
+msgstr ""
+
+#: includes/forms-validator/form-xlib-mailchimp.php:110
+msgid "API Error"
+msgstr ""
+
+#: includes/helper-factory.php:194
+msgid "Support has Expired!"
+msgstr ""
+
+#: includes/helper-factory.php:215
+msgid "Expired!"
+msgstr ""
+
+#: includes/helper-factory.php:694
+msgid "Empty body to be convert."
+msgstr ""
+
+#: includes/helper-factory.php:711
+msgid "Invalid JSON body passed."
+msgstr ""
+
+#: includes/helper-factory.php:941
+msgid "Manage Network Options"
+msgstr ""
+
+#: includes/ignition-helper.php:216
+msgid ""
+"Howdy, Welcome to <b>(Ultimate Email Validator)</b>,<br/> Stop registration, "
+"update user profile, post comments or using contact forms with temporary or "
+"disposable email addresses using a completely free API."
+msgstr ""
+
+#: includes/ignition-helper.php:261
+#, php-format
+msgid "Table: <b>%s</b> successfully created."
+msgstr ""
+
+#: includes/ignition-helper.php:264
+#, php-format
+msgid "Failed to create table: <b>%s</b>."
+msgstr ""
+
+#: includes/ignition-helper.php:269
+#, php-format
+msgid "Table: <b>%s</b> already exist."
+msgstr ""
+
+#: includes/ignition-helper.php:280 includes/ignition-helper.php:288
+#, php-format
+msgid "<b>%s</b> Tables: <hr/>"
+msgstr ""
+
+#: ultimate-email-validator.php:200
+msgid "Ultimate Email Validator"
+msgstr ""
+
+#: ultimate-email-validator.php:204
+msgid "Ultimate Email Validator Settings"
+msgstr ""
+
+#: ultimate-email-validator.php:325
+#, php-format
+msgid ""
+"- The blog ID you entered in the constant [%s] in {wp-config.php} is not a "
+"part of your network sites."
+msgstr ""
+
+#: ultimate-email-validator.php:331
+#, php-format
+msgid ""
+"- The blog ID you entered in the constant [%s] in {wp-config.php} is not a "
+"number."
+msgstr ""
+
+#: ultimate-email-validator.php:338
+#, php-format
+msgid ""
+"- (Ultimate Email Validator) is a network only plugin and it requires a "
+"defined constant [%s] to be added in your {wp-config.php} with Blog ID."
+msgstr ""
+
+#: ultimate-email-validator.php:349
+#, php-format
+msgid ""
+"- Requires PHP Version %s (or higher) to function properly. Please upgrade "
+"or contact your administrator for help."
+msgstr ""
+
+#: ultimate-email-validator.php:353
+#, php-format
+msgid ""
+"- Requires WordPress Version %s (or higher) to function properly. Please "
+"upgrade or contact your administrator for help."
+msgstr ""
+
+#: ultimate-email-validator.php:359
+msgid "<b>(Ultimate Email Validator)</b><br/>"
+msgstr ""
+
+#: ultimate-email-validator.php:363
+msgid "<br/><b>The Plugin has been auto-deactivated.</b>"
+msgstr ""
